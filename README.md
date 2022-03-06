@@ -67,7 +67,7 @@ sudo mv /Library/Printers/Samsung/SCX-4521F/ML-2160.icns /Library/Printers/Samsu
 ```
 - Plug in your printer
 
-- Add printer on your system prefs and use driver "Samsung SCX-4521F, Splix V. 2.0.0"
+- Add printer on your system prefs and use driver "Samsung SCX-4521F, 2.0.0"
 
 
 **Happy printing!**
